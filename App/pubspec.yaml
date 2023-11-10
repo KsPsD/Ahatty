@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  dio: ^3.0.9
+  dio: ">=3.0.9 <6.0.0"
   json_annotation: ^3.0.0
   speech_to_text: ^2.2.0
   speech_recognition: ^0.3.0+1
